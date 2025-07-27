@@ -1,0 +1,33 @@
+:root {
+  --blue-900: #0b1f3f;
+  --blue-800: #0f2c5f;
+  --blue-700: #184a8a;
+  --primary: #2563eb;
+  --accent: #38bdf8;
+  --card-grad-start: #4a92ff;
+  --card-grad-end: #4ad5ff;
+  --text: #0f172a;
+  --muted: #475569;
+  --divider: #8b8484;
+  --shadow: 0 24px 60px rgba(2, 6, 23, 0.35);
+  --radius-lg: 18px;
+  --radius-md: 12px;
+}
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(
+      1200px 600px at 15% 0%,
+      var(--blue-700),
+      transparent 60%
+    ),
+    linear-gradient(160deg, var(--blue-900), var(--blue-800));
+  color: var(--text);
+}
+
+a {
+  color: var(--primary);
+}
+a:hover {
+  text-decoration: none;
+}
