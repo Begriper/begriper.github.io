@@ -1,0 +1,141 @@
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  :root {
+    --color-text: #000000 !important;
+    --color-heading: #000000 !important;
+    --color-text-muted: #404040 !important;
+    --color-primary: #2563eb !important;
+    --color-bg: #ffffff !important;
+    --color-surface: #ffffff !important;
+    --color-border: #e5e5e5 !important;
+  }
+
+  @page {
+    margin: 2cm;
+    size: A4;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Hide elements not needed for print */
+  .lang-switch,
+  .theme-toggle,
+  .skip-link,
+  .socials {
+    display: none !important;
+  }
+
+  /* Layout adjustments */
+  .hero {
+    padding-top: 0;
+    padding-bottom: 1rem;
+    break-inside: avoid;
+  }
+
+  .hero__name {
+    font-size: 20pt;
+    color: black !important;
+  }
+
+  .avatar {
+    width: 80px;
+    height: 80px;
+  }
+
+  .resume-card {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+    margin: 0;
+    padding: 1.5rem !important;
+  }
+
+  .resume-grid {
+    display: block;
+  }
+
+  .col-main {
+    margin-bottom: 2rem;
+  }
+
+  .col-aside {
+    break-inside: avoid;
+  }
+
+  /* Typography for print */
+  .section__title {
+    font-size: 12pt;
+    border-bottom: 1px solid #666;
+    padding-bottom: 2pt;
+    margin-bottom: 8pt;
+    break-after: avoid;
+  }
+
+  .exp-item {
+    border: none !important;
+    background: none !important;
+    padding: 0 !important;
+    margin-bottom: 12pt;
+    break-inside: avoid;
+  }
+
+  .exp-item__role {
+    font-size: 11pt;
+    font-weight: bold;
+  }
+
+  .exp-item__meta {
+    font-size: 9pt;
+    color: #666 !important;
+  }
+
+  .card {
+    border: 1px solid #ddd !important;
+    background: none !important;
+    padding: 8pt !important;
+    margin-bottom: 8pt;
+    break-inside: avoid;
+  }
+
+  .list li::before {
+    background: black !important;
+  }
+
+  .contact li {
+    break-inside: avoid;
+    padding: 2pt 0;
+  }
+
+  .icon {
+    width: 12pt;
+    height: 12pt;
+    fill: black !important;
+  }
+
+  /* Ensure proper page breaks */
+  .section {
+    break-inside: avoid;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 8pt;
+    color: #666;
+    border-top: 1px solid #ccc;
+    padding-top: 4pt;
+  }
+}
