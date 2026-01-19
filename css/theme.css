@@ -77,7 +77,7 @@
   --color-primary-hover: #3b82f6;
   --color-accent: #0ea5e9;
   --color-text: #f8fafc;
-  --color-text-muted: ##ffffff;
+  --color-text-muted: #ffffff;
   --color-heading: #f1f5f9;
   --color-bg: #0f172a;
   --color-surface: #1e293b;
@@ -133,4 +133,5 @@ body {
   color: var(--color-text);
   transition: background-color var(--transition-normal), color var(--transition-normal);
 }
+
 
