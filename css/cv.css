@@ -93,7 +93,9 @@ a:hover { text-decoration: underline; }
 .short b { font-weight: 600; }
 
 /* Mobile: one column; header and sidebar stay dark, experience in the middle */
-@media (max-width: 760px) {
+/* Screen only: browser zoom can narrow the print layout below this width, and the
+   stacked mobile layout must never leak into Ctrl+P / PDF. */
+@media screen and (max-width: 760px) {
   .cv { margin: 0; box-shadow: none; grid-template-columns: minmax(0, 1fr); grid-template-areas: "photo" "id" "contact" "main" "side"; grid-template-rows: none; background: var(--navy); }
   .photo { margin: 52px 0 0 18px; width: 88px; height: 88px; }
   .id { padding: 16px 18px 0; color: #fff; }
