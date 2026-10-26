@@ -1,0 +1,15 @@
+{
+  "name": "frantisek-stolar-cv-tools",
+  "private": true,
+  "type": "module",
+  "description": "One-off asset scripts (QR codes, PDF). The site itself has no build step.",
+  "scripts": {
+    "qr": "node make-qr.mjs",
+    "pdf": "node make-pdf.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/plus-jakarta-sans": "5.2.8",
+    "jsqr": "1.4.0",
+    "qrcode": "1.5.4"
+  }
+}
