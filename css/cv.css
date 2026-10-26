@@ -146,6 +146,16 @@ ul.bullets { padding-left: 18px; }
   .skills { grid-template-columns: minmax(0, 1fr); }
   .edu-hob { grid-template-columns: minmax(0, 1fr); }
   .site-foot { padding: 20px 16px; }
+  /* PDF button top right, icon + "PDF" only */
+  .topbar { flex-wrap: nowrap; gap: 8px; }
+  .lang-nav { flex-wrap: nowrap; gap: 2px; }
+  .lang-nav a { padding: 0 10px; }
+  .btn-pdf { flex: none; margin-left: auto; padding: 0 14px; }
+  .btn-verb { display: none; }
+}
+
+@media screen and (max-width: 360px) {
+  .lang-nav a { padding: 0 8px; }
 }
 
 /* ---------- Print / PDF: two A4 sheets (794 × 1123 CSS px each) ---------- */

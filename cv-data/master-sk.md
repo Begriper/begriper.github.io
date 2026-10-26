@@ -9,7 +9,7 @@ Variants live in `cv-data/varianty/` and only describe what differs from this fi
 - Vecne a skromne. Žiadne tvrdenia o rýchlom tempe, výkonových normách, „pracovitosti“ a podobne.
 - Nespomínať zdravie, PN, ÚPSVaR / RePass ani metódu 5S.
 - Žiadna sekcia „Projekty“ s odkazmi – stačia odkazy na GitHub a LinkedIn (v tlači QR kódy).
-- Fotka: súčasná fotka z posilňovne (`img/portrait.jpg`), záber ako na Facebooku (`img/portrait-cv.jpg`). Nenavrhovať AI fotku.
+- Fotka: súčasná fotka z posilňovne (`img/portrait.jpg`). `img/portrait-cv.jpg` má rovnaký záber ako profilová fotka Google účtu – hlava v strede kruhu (`tools/portrait_center.py`). Nenavrhovať AI fotku.
 - Jazykové úrovne presne podľa sekcie Jazyky. Pri poľštine neuvádzať úroveň písania.
 
 ## Kontakt
