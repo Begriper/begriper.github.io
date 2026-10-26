@@ -14,12 +14,15 @@ Variants live in `cv-data/varianty/` and only describe what differs from this fi
 
 ## Kontakt
 
-- Lendak, Slovensko
+- Lendak, Slovensko (odkaz na Google Maps)
 - +421 907 407 968
 - fero.stolar@gmail.com
 - frantisek-stolar.cv
 - linkedin.com/in/frantisek-stolar
 - github.com/Begriper
+- Vodičský preukaz sk. B (na webe medzi kontaktmi, v PDF v paneli pod jazykmi)
+
+Na webe sú všetky kontakty klikateľné odkazy s ikonkou (mapa, tel:, mailto:, LinkedIn, GitHub).
 
 ## Headline (web – všeobecný)
 
@@ -101,33 +104,52 @@ Krátka forma (PDF): Pomocné práce na strechách, Chicago (USA) · finančný 
 
 ## Hlavné zručnosti (chips, web – všeobecný)
 
-Vychystávanie a balenie · Príjem a výdaj tovaru · Skenery a hlasový systém · Zváranie CO₂ · Montáže a dielenské práce · Komunikácia so zákazníkmi · Excel, Power BI · AI nástroje · Vodičský preukaz sk. B
+Vychystávanie a balenie · Príjem a výdaj tovaru · Skenery a hlasový systém · Zváranie CO₂ · Montáže a dielenské práce · Komunikácia so zákazníkmi · Dátová analytika (Excel, Power BI, Python) · Tvorba webov (React, Next.js) · AI nástroje
 
 ## Zručnosti (6 kategórií)
 
-Poradie na webe: Sklad a logistika, Výroba a dielenské práce, Komunikácia so zákazníkmi, Digitálne zručnosti, Umelá inteligencia, Vlastné projekty.
+Poradie na webe: Sklad a logistika, Výroba a dielenské práce, Komunikácia so zákazníkmi, Dátová analytika, Tvorba webových aplikácií, Umelá inteligencia.
 
 - **Sklad a logistika** – Vychystávanie objednávok (skener, hlasový systém), balenie, etiketovanie, príjem a výdaj tovaru, paletizácia, inventúra.
 - **Výroba a dielenské práce** – Rezanie, skladanie a vŕtanie hliníkových dielov, laserové označovanie, zváranie CO₂, brúsenie, práca na sústruhu, montáže.
 - **Komunikácia so zákazníkmi** – Telefonická a e-mailová podpora, riešenie reklamácií, komunikácia s obchodnými partnermi.
-- **Digitálne zručnosti** – Excel, Power Query, Power BI, SQL a Python – kurz a samostatné štúdium dátovej analytiky v roku 2025.
+- **Dátová analytika** – Excel, Power Query, Power BI, SQL a Python – kurz a samostatné štúdium v roku 2025. Vlastný projekt: evidencia a analýza nákladov na auto (úver, tankovanie, servis).
+- **Tvorba webových aplikácií** – HTML, CSS, JavaScript, React a Next.js vrátane jednoduchého backendu – kurzy a vlastné projekty, napr. kalkulačka na plánovanie výroby (Deltrian).
 - **Umelá inteligencia** – Používam ChatGPT, Claude a Codex pri štúdiu, práci s textom a s dátami.
-- **Vlastné projekty** – Kalkulačka na plánovanie výroby (Deltrian); evidencia a analýza nákladov na auto (úver, tankovanie, servis) v Exceli, Power Query, Power BI a Pythone.
+
+Neuvádzať titul „Full stack developer“ – bez pracovnej praxe v odbore by zvyšoval očakávania.
+
+## Nástroje a technológie (len web)
+
+- Dáta a analytika: Excel, Power Query, Power BI, SQL, Python
+- Frontend: HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js
+- Backend a databázy: Next.js, Supabase, PostgreSQL, Prisma, REST API
+- Vývojárske nástroje: Git, GitHub, VS Code, npm, Vercel, Netlify
+- AI nástroje: ChatGPT, Claude, Codex
+
+*(len master)* Vlastný projekt ProStore: e-shop s prihlasovaním, administráciou, PayPal a Stripe (Next.js, React, PostgreSQL, Prisma, TypeScript) – na GitHube.
 
 ## Vzdelanie a kurzy
 
 | Obdobie | Škola / kurz | Popis |
 |---|---|---|
 | 07/2025 – 08/2025 | Skillmea – Data Analyst | Kurz dátovej analytiky (Excel, Power Query, Power BI, SQL, Python) a samostatné štúdium v roku 2025 |
-| 2024 – 2025 | Udemy | Kurzy webového vývoja – HTML, CSS, JavaScript, React |
+| 2024 – 2025 | Udemy | Kurzy webového vývoja – HTML, CSS, JavaScript, React, Next.js |
 | 2019 – 2021 | Learn2Code | Webové technológie, základy programovania a grafického dizajnu |
 | 2010 – 2014 | Stredná odborná škola, Kežmarok | Mechanik počítačových sietí, s maturitou |
 
 Pri kurze Skillmea nikdy nespomínať ÚPSVaR ani RePass.
 
+Detaily kurzov (na webe pod vzdelaním, v PDF nie):
+
+- Udemy: Next.js E-commerce Course (2025), The Ultimate React Course (2025), The Complete JavaScript Course (2024), Advanced CSS and Sass (2024), Design & Develop Websites – HTML5 & CSS3 (2024), Web Design Secrets (2024), Full Stack Crash Course (2024)
+- Learn2Code: Webrebel 1 (HTML, CSS, JavaScript), Základy programovania a OOP, CSS/Sass, Vizuálny dizajn – Photoshop
+
 ## Záľuby
 
 Turistika v Tatrách · Kalistenika a fitness · Cyklistika · Čítanie kníh · Nové technológie a AI
+
+Na webe úplne dole v riadku s ikonkami; v PDF ako čipy v paneli na 1. strane.
 
 ## Ďalšie
 

@@ -16,18 +16,18 @@ Spoľahlivý a komunikatívny pracovník. Plynulo sa dohovorím po poľsky a če
 
 ## Hlavné zručnosti (chips)
 
-Komunikácia so zákazníkmi · Telefón a e-mail · Riešenie reklamácií · Excel · Firemné a skladové systémy · AI nástroje (ChatGPT, Claude) · Vodičský preukaz sk. B
+Komunikácia so zákazníkmi · Telefón a e-mail · Riešenie reklamácií · Excel · Firemné a skladové systémy · AI nástroje (ChatGPT, Claude)
+
+Vodičský preukaz sk. B je v paneli pod jazykmi (ako vo všeobecnom PDF).
 
 ## Poradie zručností (6 kategórií)
 
 1. Komunikácia so zákazníkmi
 2. Sklad a logistika
 3. Výroba a dielenské práce
-4. Digitálne zručnosti
-5. Umelá inteligencia
-6. Vlastné projekty
-
-Vlastné projekty (krátka forma): Kalkulačka na plánovanie výroby (Deltrian); evidencia a analýza nákladov na auto v Exceli, Power Query, Power BI a Pythone.
+4. Dátová analytika
+5. Tvorba webových aplikácií
+6. Umelá inteligencia
 
 ## Poradie pracovných skúseností
 
