@@ -156,8 +156,8 @@ ul.bullets { padding-left: 18px; }
   .screen-only, .topbar, .skip-link, .site-foot { display: none !important; }
 
   /* Each sheet is exactly one page; the break between them sits between two experience items. */
-  .sheet { width: 210mm; height: 296.8mm; overflow: hidden; display: flex; flex-direction: column; padding: 50px 56px 40px; break-after: page; }
-  .sheet + .sheet { padding-top: 46px; break-after: auto; }
+  .sheet { width: 210mm; height: 296.8mm; overflow: hidden; display: flex; flex-direction: column; padding: 44px 56px 34px; break-after: page; }
+  .sheet + .sheet { padding-top: 40px; break-after: auto; }
 
   .head { display: grid; grid-template-columns: minmax(0, 1fr) 124px; gap: 28px; align-items: center; }
   .photo { order: 2; width: 120px; height: 120px; border-width: 3px; }
@@ -167,50 +167,50 @@ ul.bullets { padding-left: 18px; }
   .contacts { margin-top: 12px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(3, auto); grid-auto-flow: column; column-gap: 20px; row-gap: 4px; font-size: 12.5px; }
 
   .label { font-size: 12px; }
-  .profile { margin-top: 26px; display: grid; grid-template-columns: 118px minmax(0, 1fr); gap: 20px; }
+  .profile { margin-top: 22px; display: grid; grid-template-columns: 118px minmax(0, 1fr); gap: 20px; }
   .profile .label { margin-top: 2px; }
   .profile p { font-size: 13.5px; line-height: 1.6; }
 
-  .panel { margin-top: 22px; border-radius: 12px; padding: 18px 20px; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 28px; }
-  .panel-col { gap: 7px; }
+  .panel { margin-top: 18px; border-radius: 12px; padding: 16px 20px; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 28px; }
+  .panel-col { gap: 6px; }
   .panel-col .label { margin-bottom: 2px; }
-  .panel-hobbies { grid-column: 1 / -1; display: flex; align-items: center; flex-wrap: wrap; gap: 6px; padding-top: 12px; border-top: 1px solid var(--chip-line); }
+  .panel-hobbies { grid-column: 1 / -1; display: flex; align-items: center; flex-wrap: wrap; gap: 6px; padding-top: 10px; border-top: 1px solid var(--chip-line); }
   .panel-hobbies .label { margin-right: 8px; }
   .badge { font-size: 12px; padding: 1px 9px; }
   .chip { font-size: 12px; padding: 3px 10px; }
 
-  .sec-title { font-size: 18px; margin-bottom: 16px; }
-  .exp { margin-top: 28px; }
-  .page-head { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .sec-title { font-size: 18px; margin-bottom: 14px; }
+  .exp { margin-top: 24px; }
+  .page-head { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 10px; border-bottom: 1px solid var(--rule); }
   .page-head-name { font-size: 18px; font-weight: 800; letter-spacing: -.02em; }
   .page-head-contact { font-size: 12.5px; color: var(--muted); }
-  .timeline-cont { margin-top: 24px; }
+  .timeline-cont { margin-top: 20px; }
   .job { display: grid; grid-template-columns: 118px minmax(0, 1fr); gap: 20px; break-inside: avoid; }
   .job-date { font-size: 12.5px; padding-top: 1px; }
-  .job-body { padding: 0 0 18px 20px; }
+  .job-body { padding: 0 0 16px 20px; }
   .job-body::before { top: 3px; }
   .job:last-child .job-body { padding-bottom: 4px; }
   .job h3 { font-size: 14px; }
   .job .bullets { margin-top: 3px; padding-left: 16px; }
   .job .bullets li + li { margin-top: 2px; }
 
-  .skills-sec { margin-top: 20px; }
+  .skills-sec { margin-top: 16px; }
   .skills-sec .sec-title { margin-bottom: 12px; }
   .skills { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 28px; }
   .skill h3 { font-size: 13.5px; }
   .skill p { font-size: 12.5px; }
 
-  .edu-hob { margin-top: 20px; }
+  .edu-hob { margin-top: 16px; }
   .hobbies-sec { display: none; }
   .edu { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 28px; }
   .edu-item { display: flex; flex-direction: column; gap: 1px; }
   .edu-date { font-size: 12.5px; }
   .edu-item h3 { font-size: 14px; }
 
-  .qr { margin-top: 20px; display: flex; justify-content: flex-end; }
+  .qr { margin-top: 14px; display: flex; justify-content: flex-end; }
   .qr-grid { display: grid; grid-template-columns: repeat(3, 76px); gap: 16px; }
   .qr-grid a { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; }
   .qr-grid svg { display: block; width: 17mm; height: 17mm; }
 
-  .page-foot { margin-top: auto; padding-top: 16px; font-size: 12px; color: var(--foot); text-align: right; }
+  .page-foot { margin-top: auto; padding-top: 12px; font-size: 12px; color: var(--foot); text-align: right; }
 }
